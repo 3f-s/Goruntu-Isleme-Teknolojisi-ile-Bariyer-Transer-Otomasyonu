@@ -2,7 +2,7 @@
    "name": "gitbtoweb",
    "version": "0.1.0",
    "private": true,
-   "homapage": "https://3f-s.github.io/Goruntu-Isleme-Teknolojisi-ile-Bariyer-Transer-Otomasyonu/",
+   "homapage": "https://anndimor.github.io",
    "dependencies": {
       "@testing-library/jest-dom": "^5.16.2",
       "@testing-library/react": "^12.1.4",
