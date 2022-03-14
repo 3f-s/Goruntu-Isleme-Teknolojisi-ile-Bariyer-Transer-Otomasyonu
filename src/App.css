@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@100;200;300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@100;200;300;400&display=swap");
+.App {
+   text-align: center;
+
+   font-weight: "400";
+   border: 0px solid black;
+}
+
+.title {
+   font-family: "Montserrat", sans-serif;
+   font-family: "Poppins", sans-serif;
+   color: white;
+   margin-top: 1%;
+   /*box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;*/
+}
+
+.video {
+   border: none;
+   border-radius: 20px;
+   box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.qr-code {
+   width: 15%;
+   margin-right: 5%;
+   border-radius: 20px;
+   box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.mainContainer {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 10%;
+   margin-bottom: 10%;
+}
+
+.sunum {
+   margin-top: 1%;
+   box-shadow: rgba(17, 12, 46, 0.35) 0px 48px 100px 0px;
+   border-radius: 20px;
+   border: none;
+}
